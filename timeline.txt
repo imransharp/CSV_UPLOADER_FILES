@@ -1,0 +1,9 @@
+Task | Est. Hours
+Basic UI Form + Table List | 2–3 hrs
+File Upload Handling | 3–4 hrs
+Backup Table (copy to another) | 2–3 hrs
+Read CSV & Insert to DB | 5–6 hrs
+Rollback Handling | 2 hrs
+Move File & Cleanup | 1 hr
+Optional: Progress/Status | 3–4 hrs
+Testing + Polish | 3 hrs
